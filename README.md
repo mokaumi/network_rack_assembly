@@ -3,17 +3,24 @@
 ## 📌 Project Overview
 
 This project involved the **assembly and installation of a structured network rack system** for organizing and housing IT network devices such as switches, patch panels, routers, and power distribution units (PDUs). The setup ensures a clean, scalable, and efficient data infrastructure for future expansion and easy maintenance.
-![IMAGE1](images/image1.jpg)
-![IMAGE2](images/image2.jpg)
-![IMAGE3](images/image3.jpg)
-![IMAGE4](images/image4.jpg)
-![IMAGE5](images/image5.jpg)
-![IMAGE6](images/image6.jpg)
-![IMAGE7](images/image7.jpg)
-![IMAGE8](images/image8.jpg)
-![IMAGE9](images/image9.jpg)
 
----
+![IMAGE1](images/image1.jpg)
+
+![IMAGE2](images/image2.jpg)
+
+![IMAGE3](images/image3.jpg)
+
+![IMAGE4](images/image4.jpg)
+
+![IMAGE5](images/image5.jpg)
+
+![IMAGE6](images/image6.jpg)
+
+![IMAGE7](images/image7.jpg)
+
+![IMAGE8](images/image8.jpg)
+
+![IMAGE9](images/image9.jpg)
 
 ## 🔧 Tasks Performed
 
